@@ -1,1 +1,3 @@
 pizza,350
+cycle,8000
+shopping,4000
